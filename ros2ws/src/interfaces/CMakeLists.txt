@@ -25,4 +25,10 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
+# Install the message headers
+install(DIRECTORY include/
+  DESTINATION include/${PROJECT_NAME}
+)
+
+
 ament_package()
