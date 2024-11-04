@@ -1,0 +1,6 @@
+<root main_tree_to_execute="MainTree">
+    <BehaviorTree ID="MainTree">
+        <CheckKeyPressedAction name="CheckIfTKeyPressed"/>
+    </BehaviorTree>
+</root>
+
