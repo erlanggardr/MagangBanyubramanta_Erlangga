@@ -3,7 +3,7 @@
 <package format="3">
   <name>controller</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Input joystick menjadi x,y,yaw,depth dan terpublikasi ke /cmd_vel</description>
   <maintainer email="erlanggarizqidwi@gmail.com">erzy</maintainer>
   <license>Apache-2.0</license>
 

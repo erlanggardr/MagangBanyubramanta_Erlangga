@@ -3,7 +3,7 @@
 <package format="3">
   <name>opencv_raw_mask</name>
   <version>0.0.0</version>
-  <description>A ROS 2 package for video processing and HSV-based masking using OpenCV.</description>
+  <description>Package yang memproses video (masking) dan mempublikasinya ke topic /camera (untuk raw) dan /mask (untuk yang termask)</description>
   <maintainer email="erlanggarizqidwi@gmail.com">erzy</maintainer>
   <license>Apache-2.0</license>
 
