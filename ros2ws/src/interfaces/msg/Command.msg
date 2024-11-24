@@ -1,4 +1,4 @@
-float32 x
-float32 y
-float32 yaw
-float32 depth
+int32 x
+int32 y
+int32 yaw
+int32 depth
