@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/erzy/MagangBanyubramanta_Erlangga/ros2ws/install/interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/erzy/MagangBanyubramanta_Erlangga/ros2ws/src/cmd_vel_to_serial/include/**",
+        "/home/erzy/MagangBanyubramanta_Erlangga/ros2ws/src/interfaces/include/**",
+        "/home/erzy/MagangBanyubramanta_Erlangga/ros2ws/src/key_checker/include/**",
+        "/home/erzy/MagangBanyubramanta_Erlangga/ros2ws/src/object_detection/include/**",
+        "/home/erzy/MagangBanyubramanta_Erlangga/ros2ws/src/opencv_raw_mask/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
